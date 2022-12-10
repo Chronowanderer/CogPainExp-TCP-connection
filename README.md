@@ -8,3 +8,6 @@ Two different stimulators (DS5) are connected to an external I/O Device (NI USB-
 [Desktop-based VR pain learning task](https://github.com/Chronowanderer/CogPainExp-Desktop-App)
 
 Immersive VR pain learning task (will be published soon)
+
+## Related tutorial
+[Virtual reality experiment setup](https://github.com/ShuangyiTong/VRPainExptGuide)
